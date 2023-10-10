@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=cdb6ernButc
 
 https://raw.githubusercontent.com/RodrigoMvs123/Complete-DevSecOps-Bootcamp-Most-Extensive-Training-OUT-NOW-/main/README.md
 
-
+https://github.com/RodrigoMvs123/Complete-DevSecOps-Bootcamp-Most-Extensive-Training-OUT-NOW-/blame/main/README.md
 
 DevSecOps
 
